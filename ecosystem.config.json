@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "Kalyaan-MAtka-420",
+      "name": "KalyaanMatka420-admin",
       "script": "src/app.js",
       "instances": 1,
       "autorestart": true,
